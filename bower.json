@@ -6,6 +6,7 @@
   "devDependencies": {},
   "main": "latlon.js",
   "ignore": [
+    "node_modules",
     ".editorconfig",
     ".gitignore",
     ".jshintrc",
