@@ -1,0 +1,15 @@
+{
+  "name": "cesiumjs",
+  "version": "1.0.0",
+  "license": "Apache 2.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "latlon.js",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    ".jshintrc",
+    "README.md",
+    "LICENSE"
+  ]
+}
